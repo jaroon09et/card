@@ -27,6 +27,7 @@
     "ID":"38792924",
   "bugs": {
     "url": "https://github.com/jaroon09et/card.io.gitissues"
+<a hrefs="http://jaroon09et.github.io/card/> SD all documents on the hub </a>
   },
   "homepage": "https://github.com/jaroon09et/card#readme",
   "license": "MIT",
